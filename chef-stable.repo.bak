@@ -1,0 +1,6 @@
+[chef-stable]
+name=chef-stable
+baseurl=https://packages.chef.io/repos/yum/stable/el/6/$basearch/
+gpgcheck=1
+enabled=1
+gpgkey=https://packages.chef.io/chef.asc
